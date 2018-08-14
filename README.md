@@ -1,2 +1,2 @@
 # hello-world
-primer repositorio
+Primer práctica de Fundamentos de Programación
